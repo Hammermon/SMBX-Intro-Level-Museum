@@ -8,7 +8,7 @@ acsesible in versions pre B5) the same folder as in with the smbx.exe. Replace t
 and it should be good to go.
 
 If you have any intros to suggest to me/ some problems or would like to make some intros for the pack,
-message me in PMs in the SMBX Forums, under Thwack (you probably know at this point)
+message me in PMs in the SMBX Forums, under Hammermon (you probably know at this point)
 
 i should resort to discord soon or make a whole server about intros/outros (once i am of age,
 of course)
